@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Olá, me chamo Bruna!😊
+
+👩‍🎓 Aluna da Generation Brasil
+
+📚 Desenvolvedora Java FullStack em Formação
+
+👀 Aprendendo mais sobre tecnologia e adorando isso!
