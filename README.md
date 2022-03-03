@@ -1,6 +1,6 @@
 ## Olá! Eu sou Bruna Guimarães! Seja bem vindo ao meu perfil do GitHub!!👋
 
-- 📚 Desenvolvedora Java FullStack Jr.
+- 📚 Desenvolvedora Java FullStack Jr formada pela Generation BR
 - 👀 Aprendendo mais sobre tecnologia e adorando isso!
 - 🦄 Pronomes: <strong>Ela/Dela.
 
